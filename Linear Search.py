@@ -1,8 +1,3 @@
-#Name : Ankit Mishra
-#Roll No : 2000320109002
-#Class : CSE2-A2
-#Practical Name : Program for Linear Search
-
 def linsearch(list,key):
     for i in range(len(list)):
         if list[i]==key:
